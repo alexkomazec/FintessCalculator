@@ -1,0 +1,10 @@
+D:\BodyCalculator\BodyCalculator\BodyCalculator\bin\Debug\BodyCalculator.exe.config
+D:\BodyCalculator\BodyCalculator\BodyCalculator\bin\Debug\BodyCalculator.exe
+D:\BodyCalculator\BodyCalculator\BodyCalculator\bin\Debug\BodyCalculator.pdb
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.csprojAssemblyReference.cache
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.Form1.resources
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.Properties.Resources.resources
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.csproj.GenerateResource.cache
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.csproj.CoreCompileInputs.cache
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.exe
+D:\BodyCalculator\BodyCalculator\BodyCalculator\obj\Debug\BodyCalculator.pdb
